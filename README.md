@@ -23,7 +23,9 @@
               <a href="https://www.space.com/57-stars-formation-classification-and-constellations.html">Link to more stars info!</a>
           </li>
       </ol>
-      <div>
+    <div>
+            <!-- Dynamic Components -->
+            <h3>Dynamic Components</h3>
             <form id="userInputForm">
                 <label for="userName">Enter Your Name:</label>
                 <input type="text" id="userName" required>
@@ -31,8 +33,11 @@
             </form>
             <div id="dateAndTime"></div>
             <div id="quoteOfTheDay"></div>
+        </div>
     </div>
     <script>
+        // JavaScript code for dynamic components
+        // (You can place this in an external script.js file)
         const userInputForm = document.getElementById("userInputForm");
         const dateAndTime = document.getElementById("dateAndTime");
         const quoteOfTheDay = document.getElementById("quoteOfTheDay");
@@ -66,3 +71,4 @@
     </script>
 </body>
 </html>
+   
