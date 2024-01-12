@@ -32,6 +32,7 @@
         userInputForm.addEventListener("submit", function (e) {
             e.preventDefault();
             const userName = document.getElementById("userName").value;
+            <div>
             alert(`Hello, ${userName}!`);
         });
 
