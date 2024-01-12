@@ -17,4 +17,4 @@
     <div>
       <p>STARS</p>
     </div>
-  </body>
+
