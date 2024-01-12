@@ -5,7 +5,6 @@
 <body>
     <header>
         <h1>Welcome to the World of Stars</h1>
-       <style> 
       {
           background-color: green;
           color: blue;
