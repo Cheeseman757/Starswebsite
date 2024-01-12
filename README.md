@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The World of Stars</title>
-    <style>  
+    <title>Stars and Fun Facts</title>
+    <style> 
         body {
             background-color: black;
             color: white;
@@ -14,33 +14,48 @@
         }
         header {
             background-color: black;
-            margin: 0 auto;
-            width: 900px;
-            border: thin solid red;
+            text-align: center;
             padding: 20px;
         }
-        h1, h2, p {
-            color: white;
+        h1 {
+            font-size: 36px;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>The world of stars!!!</h1>
-        <h2>Fun facts about stars!</h2>
-        <p>Stars are black bodies and absorb 100% of all electromagnetic radiation.</p>
-        <p>You can’t see millions of stars on a dark night.</p>
-        <p>Every star you see in the night sky is bigger and brighter than our sun.</p>
-        <p>Stars don’t twinkle.</p>
+        <h1>Welcome to the World of Stars</h1>
     </header>
-    <img src="star.jpg">
-    <ol>
-        <li>
-            <a href="https://www.space.com/57-stars-formation-classification-and-constellations.html">Link to more stars info!</a>
-        </li>
-    </ol>
-    <div>
-        <p>STARS</p>
+    <div class="container">
+        <h2>Fun Facts about Stars</h2>
+        <p>Stars are fascinating celestial objects that have captured human imagination for centuries. Here are some fun facts about them:</p>
+        <ul>
+            <li>Stars are giant balls of glowing gas, primarily hydrogen and helium.</li>
+            <li>Our Sun is a star, and it provides us with heat and light.</li>
+            <li>Stars vary in size, temperature, and brightness.</li>
+            <li>The color of a star depends on its temperature, with cooler stars appearing red and hotter stars appearing blue.</li>
+            <li>Stars go through various stages of life, including formation, main sequence, and eventually, they can explode as supernovas.</li>
+        </ul>
+        <p>Explore the wonders of the night sky and learn more about the mysteries of the universe.</p>
+      <img src="star.jpg">
+      <ol>
+          <li>
+              <a href="https://www.space.com/57-stars-formation-classification-and-constellations.html">Link to more stars info!</a>
+          </li>
+      </ol>
+      <div>
     </div>
 </body>
 </html>
