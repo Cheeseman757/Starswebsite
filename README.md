@@ -5,6 +5,14 @@
 <body>
     <header>
         <h1>Welcome to the World of Stars</h1>
+       <style> 
+      {
+          background-color: green;
+          color: blue;
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+      }
     </header>
     <div class="container">
         <h2>Fun Facts about Stars</h2>
