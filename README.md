@@ -24,7 +24,16 @@
           </li>
       </ol>
       <div>
-      const userInputForm = document.getElementById("userInputForm");
+            <form id="userInputForm">
+                <label for="userName">Enter Your Name:</label>
+                <input type="text" id="userName" required>
+                <button type="submit">Submit</button>
+            </form>
+            <div id="dateAndTime"></div>
+            <div id="quoteOfTheDay"></div>
+    </div>
+    <script>
+        const userInputForm = document.getElementById("userInputForm");
         const dateAndTime = document.getElementById("dateAndTime");
         const quoteOfTheDay = document.getElementById("quoteOfTheDay");
 
@@ -32,7 +41,6 @@
         userInputForm.addEventListener("submit", function (e) {
             e.preventDefault();
             const userName = document.getElementById("userName").value;
-            <div>
             alert(`Hello, ${userName}!`);
         });
 
@@ -58,5 +66,3 @@
     </script>
 </body>
 </html>
-    
-  
