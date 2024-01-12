@@ -1,38 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stars and Fun Facts</title>
-    <style> 
-        body {
-            background-color: black;
-            color: white;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: black;
-            text-align: center;
-            padding: 20px;
-        }
-        h1 {
-            font-size: 36px;
-        }
-        h2 {
-            font-size: 24px;
-        }
-        p {
-            font-size: 18px;
-            line-height: 1.5;
-        }
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-    </style>
+ 
 </head>
 <body>
     <header>
