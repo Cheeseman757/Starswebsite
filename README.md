@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The World of Stars</title>
-    <style> 
+    <style>  
         body {
             background-color: black;
             color: white;
