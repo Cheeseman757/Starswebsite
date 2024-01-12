@@ -35,8 +35,7 @@
         </div>
     </div>
     <script>
-        // JavaScript code for dynamic components
-        // (You can place this in an external script.js file)
+      
         const userInputForm = document.getElementById("userInputForm");
         const dateAndTime = document.getElementById("dateAndTime");
         const quoteOfTheDay = document.getElementById("quoteOfTheDay");
