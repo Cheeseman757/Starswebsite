@@ -1,6 +1,19 @@
 <html>
     <h1>The world of stars!!!</h1>
     <header>
+        <head>
+    <style> 
+    header, h1 {
+        /* margin-left: 400px; */
+        margin: 0 auto;
+        width: 900px;
+        border: thin solid red;
+    }
+    </style>
+
+
+
+        
       <h2>Fun facts about stars!</h2>
       <p>Stars are black bodies and absorb 100% of all electromagnetic radiation
       <p>You can’t see millions of stars on a dark night
@@ -16,4 +29,3 @@
     <div>
       <p>STARS</p>
     </div>
-
