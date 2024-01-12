@@ -1,5 +1,4 @@
 <html>
-  <body>
     <h1>The world of stars!!!</h1>
     <header>
       <h2>Fun facts about stars!</h2>
