@@ -33,7 +33,7 @@
         <p>Every star you see in the night sky is bigger and brighter than our sun.</p>
         <p>Stars don’t twinkle.</p>
     </header>
-    <img src="star.jpg" alt="Stars">
+    <img src="star.jpg">
     <ol>
         <li>
             <a href="https://www.space.com/57-stars-formation-classification-and-constellations.html">Link to more stars info!</a>
